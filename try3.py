@@ -1,5 +1,6 @@
 import cv2
 import numpy as np 
+#this one works
 
 path = '/Users/dianamanzano/Documents/filter/'
 
